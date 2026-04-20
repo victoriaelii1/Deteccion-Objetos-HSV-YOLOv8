@@ -15,6 +15,6 @@ Antes de ejecutar el código por primera vez, necesitas instalar las librerías 
 
 ```bash
 pip install ultralytics opencv-python numpy PyQt6
+```
+Elaborado por Victoria Elizabeth Juárez Morales - Maestría en Ingeniería
 
-## Autoría
-**Elaborado por Victoria Elizabeth Juárez Morales** *Maestría en Ingeniería*
